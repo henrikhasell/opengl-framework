@@ -4,11 +4,6 @@
 #include <SDL2/SDL.h>
 #include "application.h"
 
-#define WINDOW_TITLE "Example OpenGL Context"
-#define WINDOW_W 800
-#define WINDOW_H 600
-#define TIME_STEP 200
-
 int main(int argc, char *argv[])
 {
     SDL_version version;
